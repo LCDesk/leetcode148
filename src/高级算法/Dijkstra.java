@@ -1,4 +1,4 @@
-package LRU.高级算法;
+package 高级算法;
 
 
 import java.util.LinkedList;

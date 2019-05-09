@@ -1,4 +1,4 @@
-package LRU.高级算法;
+package 高级算法;
 
 
 //自己的优先队列实现，提供了update方法

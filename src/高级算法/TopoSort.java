@@ -1,6 +1,4 @@
-package LRU.高级算法;
-
-import 经典148.LinkedListCycle;
+package 高级算法;
 
 import java.util.LinkedList;
 import java.util.Queue;
